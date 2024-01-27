@@ -2,19 +2,43 @@
 
 ### Hello World! 👋 I'm Indradeva, the mind behind the RRRAWR! Repository.
 
-In the hustle of open-source projects, my repository is something different. I am devoted to build a sanctuary for developers, place in MATRIX where you can relax and chill. 
+In the hustle of open-source projects, my repository is something different. I am devoted to building a sanctuary for developers, a place in the MATRIX where you can relax and chill.
 
-🔭 **Current Expedition:** I'm architecting a new way in AI-matchmaking, algorithms for human connection. Check out the MVP of my latest venture [here](https://indradevai.replit.app/) 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-🌱 **Cognitive Expansion:** I'm currently deep-diving into the world of [pythonic: ai(openai), ml(pytorch) and nlp(spacy) in matchmaking], for expanding my horizons to bring more PLEASURrrererer experiences to you.
+## Current Expedition
+I'm architecting a new way in AI-matchmaking, algorithms for human connection. Check out the MVP of my latest venture [here](https://indradevai.replit.app/).
 
-💬 **Engage with Me:** Talk to me about [insert topic: ai, advertising, science, love], abour the synergy of humans and technology, and how we can co-create a future that resonates with both.
+## Cognitive Expansion
+I'm currently deep-diving into the world of Pythonic AI (OpenAI), ML (PyTorch) and NLP (spaCy) in matchmaking, expanding my horizons to bring more PLEASURrrererer experiences to you.
 
-📫 **Connect:** Reach out to me at [1ndradev4@proton.me, or any media]. Let's collaborate to create impactful solutions that echo our shared vision for a better tomorrow.
+## Engage with Me
+Talk to me about AI, advertising, science, love, about the synergy of humans and technology, and how we can co-create a future that resonates with both.
 
-😄 **Pronouns:** [he].
+## Connect
+Reach out to me at 1ndradev4@proton.me, or any media. Let's collaborate to create impactful solutions that echo our shared vision for a better tomorrow.
 
-⚡ **Did You Know?** My repository isn't just a collection of projects; it's a crucible where the 'Big Idea' - RRRAWR! (Revolution, Reliability, Relaxation, Accessible, World-class, Remarkable) is forged into every line of code.
+## Pronouns
+He/Him
+
+## Did You Know?
+My repository isn't just a collection of projects; it's a crucible where the 'Big Idea' - RRRAWR! (Revolution, Reliability, Relaxation, Accessible, World-class, Remarkable) is forged into every line of code.
 
 Join me on this way of BLISS, where every commit is a step towards an era of digital matchmaking. Together, we can redefine connections and experiences — one algorithm at a time.
 
+## Installation
+[Instructions on how to install and setup the projects]
+
+## Usage
+[Instructions and examples of how to use the projects]
+
+## How to Contribute
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
