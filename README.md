@@ -1,3 +1,5 @@
+![DALL·E 2024-01-27 22 46 33 - Design a sleek GitHub banner capturing the 'RRRAWR' theme, sized at 1280 by 640 pixels  The color scheme should be minimalistic, using 'sexy-black' as](https://github.com/indrad3v4/indrad3v4/assets/120383053/5808baba-c9a0-467a-9b1a-2a931c1e655f)
+
 ### Hi there 👋
 
 <!--
