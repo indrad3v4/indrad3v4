@@ -1,41 +1,61 @@
 ![DALL·E 2024-01-27 22 46 33 - Design a sleek GitHub banner capturing the 'RRRAWR' theme, sized at 1280 by 640 pixels  The color scheme should be minimalistic, using 'sexy-black' as](https://github.com/indrad3v4/indrad3v4/assets/120383053/5808baba-c9a0-467a-9b1a-2a931c1e655f)
 
-### Hello World! 👋 I'm Indradeva, the mind behind the RRRAWR! Repository.
+## Hello World! 👋  
+I'm **Indradeva**, a developer who turns code into cultural fire. I build Pythonic AI tools for human connection — where open-source meets ai, and hackathons feel like rituals.
 
-In the hustle of open-source projects, my repository is something different. I am devoted to building a sanctuary for developers, a place in the MATRIX where you can relax and chill.
+[![Sponsor Me](https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-ff00a8?style=flat)](https://github.com/sponsors/indrad3v4)
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+---
 
-## Current Expedition
-I'm architecting a new way in AI-matchmaking, algorithms for human connection. Check out the MVP of my latest venture [here](https://indradevai.replit.app/).
+### 🧠 What I'm Building
 
-## Cognitive Expansion
-I'm currently deep-diving into the world of Pythonic AI (OpenAI), ML (PyTorch) and NLP (spaCy) in matchmaking, expanding my horizons to bring more PLEASURrrererer experiences to you.
+- 🎧 **Vibratonic** — An offline-first hackathon launcher & funding portal. Turn any room into a demo + investment-ready coding space.  
+  → [Try MVP](https://vibratonic.replit.app) | [GitHub Repo](https://github.com/indrad3v4/Vibratonic)  
+- 🎨 [**Missiora.agency**](https://missiora.agency) — Mixed-reality CV AI agents for solopreneurs, powered by HuggingFace Vision + OpenAI SDK.  
+- 🏘️ **Daodiseo** — RAG + blockchain dApp for real-estate tokenization (Cosmos SDK + FastAPI + Vue).  
+- 🧪 [**SCIX**](https://scix.replit.app) — a scientific RAG agent for research teams (OpenAI + spaCy + Replit Agents).
 
-## Engage with Me
-Talk to me about AI, advertising, science, love, about the synergy of humans and technology, and how we can co-create a future that resonates with both.
+---
 
-## Connect
-Reach out to me at 1ndradev4@proton.me, or any media. Let's collaborate to create impactful solutions that echo our shared vision for a better tomorrow.
+### 🌍 Why Sponsor?
 
-## Pronouns
-He/Him
+Your support fuels open-source tools that help indie founders launch, connect, and rise — especially in places without easy tech funding.
 
-## Did You Know?
-My repository isn't just a collection of projects; it's a crucible where the 'Big Idea' - RRRAWR! (Revolution, Reliability, Relaxation, Accessible, World-class, Remarkable) is forged into every line of code.
+Every €/$ you give to [Vibratonic](https://github.com/sponsors/indrad3v4) helps:
+- Run grassroots hackathons  
+- Fund the most promising MVPs  
+- Build AI infra that runs *without the cloud*  
+→ [Become a sponsor](https://github.com/sponsors/indrad3v4)
 
-Join me on this way of BLISS, where every commit is a step towards an era of digital matchmaking. Together, we can redefine connections and experiences — one algorithm at a time.
+---
 
-## Installation
-[Instructions on how to install and setup the projects]
+### 🧬 RRRAWR Philosophy
 
-## Usage
-[Instructions and examples of how to use the projects]
+> RRRAWR = **Revolution • Reliability • Relaxation • Accessibility • World-class • Remarkability**
 
-## How to Contribute
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Each project here is more than code — it's part of a creative rebellion. I'm building a developer sanctuary: a space where tech isn't extractive, it's healing.
 
-1. Read contributing.md: https://github.com/indrad3v4/CONTRIBUTING.md/blob/main/CONTRIBUTING.md
-2. Contribute ^^
+---
+
+### 💌 Engage with Me  
+Let’s co-create tools for inner and outer transformation.  
+📫 [1ndradev4@proton.me](mailto:1ndradev4@proton.me)  
+📍 Based in Kraków — working globally.  
+💬 Talk to me about AI, love, science, magic, and vibes.
+
+---
+
+### 👨‍💻 Tech Stack  
+Python • FlaskAPI • Reflex • Vue 3 • Pydantic • spaCy • OpenAI • HuggingFace Vision • RAG • Clean Architecture
+
+---
+
+### 🛠 Installation  
+[Instructions coming soon.]
+
+### 📚 Usage  
+[Live demos above.]
+
+---
+
+> “Together, we redefine connection — one algorithm at a time.”
