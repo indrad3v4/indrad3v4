@@ -6,9 +6,7 @@
 <!-- 💖 SPONSOR CTA -->
 <p align="center">
   <a href="https://github.com/sponsors/indrad3v4">
-    <img src="https://avatars.githubusercontent.com/u/120383053?v=4" width="80" height="80" style="border-radius: 50%" alt="Indradeva avatar"><br/>
-    <strong>Sponsor Indradeva</strong><br/>
-    <em>Support the Vibecoding movement.</em><br/><br/>
+    <strong>Sponsor the Vibecoding movement.</strong><br/><br/>
     <img src="https://img.shields.io/badge/Sponsor-ff00a8?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor Badge">
   </a>
 </p>
