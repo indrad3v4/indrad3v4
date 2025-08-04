@@ -1,7 +1,39 @@
-<!-- 👁 GITHUB SPONSOR BANNER -->
+<!-- 🎯 SPONSOR BANNER -->
 <p align="center">
   <img src="https://github.com/indrad3v4/indrad3v4/blob/main/photo_2025-08-04%2019.25.39.jpeg?raw=true" alt="Sponsor Vibratonic — Risk of High ROI" width="100%">
 </p>
+
+<!-- 💖 SPONSOR CTA -->
+<p align="center">
+  <a href="https://github.com/sponsors/indrad3v4">
+    <img src="https://avatars.githubusercontent.com/u/120383053?v=4" width="80" height="80" style="border-radius: 50%" alt="Indradeva avatar"><br/>
+    <strong>Sponsor Indradeva</strong><br/>
+    <em>Support the Vibecoding movement.</em><br/><br/>
+    <img src="https://img.shields.io/badge/Sponsor-ff00a8?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor Badge">
+  </a>
+</p>
+
+<!-- 📊 GITHUB BADGES -->
+<p align="center">
+
+  <a href="https://github.com/indrad3v4?tab=followers">
+    <img src="https://img.shields.io/github/followers/indrad3v4?label=Follow&style=for-the-badge" alt="GitHub Followers">
+  </a>
+
+  <a href="https://github.com/indrad3v4/Vibratonic/stargazers">
+    <img src="https://img.shields.io/github/stars/indrad3v4/Vibratonic?label=Vibratonic%20stars&style=for-the-badge" alt="Vibratonic Stars">
+  </a>
+
+  <a href="https://github.com/indrad3v4/Vibratonic">
+    <img src="https://img.shields.io/github/languages/top/indrad3v4/Vibratonic?style=for-the-badge" alt="Top language">
+  </a>
+
+  <a href="https://github.com/indrad3v4/Vibratonic/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/indrad3v4/Vibratonic?style=for-the-badge" alt="MIT License">
+  </a>
+
+</p>
+
 
 ---
 
@@ -66,3 +98,4 @@ Python • FastAPI • Streamlit • Reflex • Vue 3 • Pydantic • spaCy •
 ---
 
 > “Together, we redefine connection — one algorithm at a time.”
+> The first 5 sponsors get to be featured in the next Vibratonic Hackathon credits, and I’ll personally shout you out in the launch tweet.
