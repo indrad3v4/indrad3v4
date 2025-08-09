@@ -11,89 +11,66 @@
   </a>
 </p>
 
-<!-- 📊 GITHUB BADGES -->
+<!-- 📊 BADGES -->
 <p align="center">
-
   <a href="https://github.com/indrad3v4?tab=followers">
     <img src="https://img.shields.io/github/followers/indrad3v4?label=Follow&style=for-the-badge" alt="GitHub Followers">
   </a>
-
   <a href="https://github.com/indrad3v4/Vibratonic/stargazers">
     <img src="https://img.shields.io/github/stars/indrad3v4/Vibratonic?label=Vibratonic%20stars&style=for-the-badge" alt="Vibratonic Stars">
   </a>
-
   <a href="https://github.com/indrad3v4/Vibratonic">
     <img src="https://img.shields.io/github/languages/top/indrad3v4/Vibratonic?style=for-the-badge" alt="Top language">
   </a>
-
   <a href="https://github.com/indrad3v4/Vibratonic/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/indrad3v4/Vibratonic?style=for-the-badge" alt="MIT License">
   </a>
-
 </p>
 
-
 ---
 
-## Hello World! 👋  
-I'm **Indradeva**, a developer who turns code into cultural fire.  
-I build Pythonic AI tools for human connection — where open-source meets ritual.
+## Hello World! 👋
+I’m **Indradeva**. I build Pythonic tools for human connection.  
+**Vibratonic** is a mobile web-app that lets you launch **offline VibeCoding hackathons**, showcase MVPs, and secure funding — from one interface.
 
-> 💖 Like this project? [Sponsor Indradeva on GitHub](https://github.com/sponsors/indrad3v4) to support Vibecoding infrastructure.
+## Big Idea (the drama & the value)
+**Turn weekends into funded prototypes.**  
+Vibratonic makes a room feel like a mini-accelerator: in 48 hours you **launch**, **get seen**, and **get backed** — even if the Wi-Fi blinks. It’s decentralised, open-source, and **offline-first** so momentum never dies after demo day.
 
----
+## For • What changes • How  *(matrix, human-readable)*
+**For:** organisers & weekend-warrior devs who love building together (**Conviviality**), want to be seen for real skill (**Recognition**), and crave ship-fast energy (**Vitality**).  
+**What changes:** every build gets public visibility, fair scoring, and a clear funding path **in-room**.  
+**How:** **Vibratonic** = **launcher + showcase + one-tap card/crypto funding** (works offline, syncs when back online).
 
-### 🧠 What I'm Building
+## How it works (activation mechanics)
+- **Pre-event:** organiser wizard, QR posters, city-chapter codes.  
+- **Check-in:** QR registration, auto team creation, offline PWA cache.  
+- **Submission:** kiosk-style MVP upload (commit + demo), local storage.  
+- **Judging:** swipe scoring, randomised order, sync on reconnect.  
+- **Funding:** one-tap **card/crypto**, sponsor matching, lightweight escrow.  
+- **Social proof:** live leaderboard in venue; project pages after the event.
 
-- 🎧 **Vibratonic** — An offline-first hackathon launcher & funding portal. Turn any room into a demo + investment-ready coding space.  
-  → [Try MVP](https://vibratonic.replit.app) | [GitHub Repo](https://github.com/indrad3v4/Vibratonic)  
-- 🎨 [**Missiora.agency**](https://missiora.agency) — Mixed-reality CV AI agents for solopreneurs, powered by HuggingFace Vision + OpenAI SDK.  
-- 🏘️ [**Daodiseo.app**](https://daodiseo.app) — RAG + blockchain dApp for real-estate tokenization (Cosmos SDK + FastAPI + Vue).  
-- 🧪 [**SCIX**](https://scix.replit.app) — a scientific RAG agent for research teams (OpenAI + spaCy + Replit Agents).
+> **Micro-story:** Saturday gym vibes. Teams scan QR, judges swipe offline, a sponsor taps **Fund** — three taps and **€1,000 pledged** lights up on the board. On Sunday the project page lands in an investor’s inbox.
 
----
+## Try it
+- **MVP:** https://vibratonic.replit.app  
+- **Repo:** https://github.com/indrad3v4/Vibratonic  
 
-### 🌍 Why Sponsor?
+**Status:**  
+- ⚡ *Live:* “Runs in your browser today.”  
+- ⏸ *Temporarily paused:* Hosting is waiting on a **$100** top-up. First sponsors will **unlock the demo within 24h**; I’ll post the receipt and your credit on the next leaderboard.
 
-Your support fuels open-source tools that help indie founders launch, connect, and rise — especially in places without easy tech funding.
+## Why Sponsor?  *(short & clear)*
+- **Recognition:** your logo on leaderboards & project pages; early access to talent.  
+- **Reliability & Control:** transparent judging metrics, on-site escrow, auditable OSS.  
+👉 Back the movement: https://github.com/sponsors/indrad3v4
 
-Every €/$ you give to [Vibratonic](https://github.com/sponsors/indrad3v4) helps:
-- Run grassroots hackathons  
-- Fund the most promising MVPs  
-- Build AI infra that runs *without the cloud*  
-→ [Become a sponsor](https://github.com/sponsors/indrad3v4)
+## What I’m building
+- 🎧 **Vibratonic** — Offline-first hackathon launcher & funding portal.  
+  → [MVP](https://vibratonic.replit.app) • [Repo](https://github.com/indrad3v4/Vibratonic)  
+- 🎨 **Missiora.agency** — Mixed-reality CV AI agents.  
+- 🏘️ **Daodiseo.app** — RAG + blockchain for real-estate tokenisation.  
+- 🧪 **SCIX** — a scientific RAG agent.
 
----
-
-### 🧬 RRRAWR Philosophy
-
-> RRRAWR = **Revolution • Reliability • Relaxation • Accessibility • World-class • Remarkability**
-
-Each project here is more than code — it's part of a creative rebellion.  
-I'm building a developer sanctuary: a space where tech isn't extractive, it's healing.
-
----
-
-### 💌 Engage with Me  
-Let’s co-create tools for inner and outer transformation.  
-📫 [1ndradev4@proton.me](mailto:1ndradev4@proton.me)  
-📍 Based in Kraków — working globally  
-💬 Talk to me about AI, tantra, science, vibes, or coding as spiritual act.
-
----
-
-### 👨‍💻 Tech Stack  
-Python • FastAPI • Streamlit • Reflex • Vue 3 • Pydantic • spaCy • OpenAI • HuggingFace Vision • Clean Architecture • Replit Deploy
-
----
-
-### 🛠 Installation  
-[Instructions coming soon.]
-
-### 📚 Usage  
-[Live demos linked above.]
-
----
-
-> “Together, we redefine connection — one algorithm at a time.”
-> The first 5 sponsors get to be featured in the next Vibratonic Hackathon credits, and I’ll personally shout you out in the launch tweet.
+## Say hi
+📫 1ndradev4@proton.me • 📍 Kraków → global
