@@ -2,7 +2,7 @@
 
 # indradev_
 
-### AI Systems Architect · Multi-Agent · GCP · IKRA
+### AI Systems Architect · Multi-Agent · IKRA
 
 [![Website](https://img.shields.io/badge/indra--ai.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indra-ai.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indradev4)
@@ -24,12 +24,12 @@
 
 | System | What | Stack |
 |--------|------|-------|
-| **Certrux** | GTM engine for 7 EU brands. Multi-agent orchestrator. | Python, OpenAI, GCP |
+| **Certrux** | GTM engine for 7 EU brands. Multi-agent orchestrator. | Python, Vertex, GCP, ADK |
 | **AMBICA** | AI visibility audits. Self-serve. | Reflex, LLMs, Stripe |
-| **SOMA** | Branding platform as autonomous agents. | Python, Multi-agent |
+| **SOMA** | Branding platform as autonomous agents. | Python, Multi-agent: OpenAI Agents SDK |
 | **deepRLPH** | Multi-agent software production. | Python, DeepSeek |
-| **Massloop** | Live performance AI (TRIZ, tempo adaptation). | Python, OpenAI |
-| **Krakow Guide** | RAG with 500+ locations, hybrid retrieval. | Next.js, Gemini |
+| **Massloop** | Live performance AI (TRIZ, tempo adaptation). | Python, DeepSeek, Comet |
+| **Krakow Guide** | RAG with 500+ locations, hybrid retrieval. | Python, OpenAI |
 | **BlackLine** | Self-healing MLOps swarm. | Python, MLflow |
 
 ---
