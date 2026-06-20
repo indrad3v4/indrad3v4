@@ -1,76 +1,50 @@
-<!-- 🎯 SPONSOR BANNER -->
-<p align="center">
-  <img src="https://github.com/indrad3v4/indrad3v4/blob/main/photo_2025-08-04%2019.25.39.jpeg?raw=true" alt="Sponsor Vibratonic — Risk of High ROI" width="100%">
-</p>
+<div align="center">
 
-<!-- 💖 SPONSOR CTA -->
-<p align="center">
-  <a href="https://github.com/sponsors/indrad3v4">
-    <strong>Sponsor the Vibecoding movement.</strong><br/><br/>
-    <img src="https://img.shields.io/badge/Sponsor-ff00a8?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor Badge">
-  </a>
-</p>
+# 👋 I'm Illia Znachenok
 
-<!-- 📊 BADGES -->
-<p align="center">
-  <a href="https://github.com/indrad3v4?tab=followers">
-    <img src="https://img.shields.io/github/followers/indrad3v4?label=Follow&style=for-the-badge" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/indrad3v4/Vibratonic/stargazers">
-    <img src="https://img.shields.io/github/stars/indrad3v4/Vibratonic?label=Vibratonic%20stars&style=for-the-badge" alt="Vibratonic Stars">
-  </a>
-  <a href="https://github.com/indrad3v4/Vibratonic">
-    <img src="https://img.shields.io/github/languages/top/indrad3v4/Vibratonic?style=for-the-badge" alt="Top language">
-  </a>
-  <a href="https://github.com/indrad3v4/Vibratonic/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/indrad3v4/Vibratonic?style=for-the-badge" alt="MIT License">
-  </a>
-</p>
+### Senior AI Systems Architect · Multi-Agent · GCP · IKRA
+
+[![Website](https://img.shields.io/badge/indra--ai.dev-ff00a8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indra-ai.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indradev4)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/indradev_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ndradev4@proton.me)
 
 ---
 
-## Hello World! 👋
-I’m **Indradeva**. I build Pythonic tools for human connection.  
-**Vibratonic** is a mobile web-app that lets you launch **offline VibeCoding hackathons**, showcase MVPs, and secure funding — from one interface.
+</div>
 
-## Big Idea (the drama & the value)
-**Turn weekends into funded prototypes.**  
-Vibratonic makes a room feel like a mini-accelerator: in 48 hours you **launch**, **get seen**, and **get backed** — even if the Wi-Fi blinks. It’s decentralised, open-source, and **offline-first** so momentum never dies after demo day.
+## 🫵 Free AI Visibility Check
 
-## For • What changes • How  *(matrix, human-readable)*
-**For:** organisers & weekend-warrior devs who love building together (**Conviviality**), want to be seen for real skill (**Recognition**), and crave ship-fast energy (**Vitality**).  
-**What changes:** every build gets public visibility, fair scoring, and a clear funding path **in-room**.  
-**How:** **Vibratonic** = **launcher + showcase + one-tap card/crypto funding** (works offline, syncs when back online).
+> **AI reads your profile before humans do. See how AI sees your code and brand.**
 
-## How it works (activation mechanics)
-- **Pre-event:** organiser wizard, QR posters, city-chapter codes.  
-- **Check-in:** QR registration, auto team creation, offline PWA cache.  
-- **Submission:** kiosk-style MVP upload (commit + demo), local storage.  
-- **Judging:** swipe scoring, randomised order, sync on reconnect.  
-- **Funding:** one-tap **card/crypto**, sponsor matching, lightweight escrow.  
-- **Social proof:** live leaderboard in venue; project pages after the event.
+👉 **[Check your AI Visibility ->](https://indra-ai.dev)** — paste your URL -> get a free score (0-100) + actionable report powered by AMBICA.
 
-> **Micro-story:** Saturday gym vibes. Teams scan QR, judges swipe offline, a sponsor taps **Fund** — three taps and **€1,000 pledged** lights up on the board. On Sunday the project page lands in an investor’s inbox.
+---
 
-## Try it
-- **MVP:** https://vibratonic.replit.app  
-- **Repo:** https://github.com/indrad3v4/Vibratonic  
+## 🏗️ What I Build
 
-**Status:**  
-- ⚡ *Live:* “Runs in your browser today.”  
-- ⏸ *Temporarily paused:* Hosting is waiting on a **$100** top-up. First sponsors will **unlock the demo within 24h**; I’ll post the receipt and your credit on the next leaderboard.
+I'm an AI Systems Architect who turns brand strategy into production AI. I built **Certrux** — a full-stack GTM AI system for 7 EU brands with multi-agent orchestrator. Before AI, I studied at **IKRA School of Creative Thinking** and scaled a retail chain from 3 to 7 locations as Brand Manager.
 
-## Why Sponsor?  *(short & clear)*
-- **Recognition:** your logo on leaderboards & project pages; early access to talent.  
-- **Reliability & Control:** transparent judging metrics, on-site escrow, auditable OSS.  
-👉 Back the movement: https://github.com/sponsors/indrad3v4
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Certrux** | AI GTM engine for 7 EU brands. Multi-agent on GCP. | Python, OpenAI Agents, GCP |
+| **AMBICA** | AI visibility audits. Free self-serve check. | Reflex, LLMs, Stripe |
+| **SOMA** | AI-native branding platform as autonomous agents. | Python, Multi-agent |
+| **deepRLPH** | Multi-agent software production system. | Python, DeepSeek, Docker |
+| **Sterling Angels** | Multi-agent RAG for investment teams. | Python, RAG, OpenAI |
+| **BlackLine MLops** | Self-healing agentic MLOps swarm. | Python, MLflow, DeepSeek |
 
-## What I’m building
-- 🎧 **Vibratonic** — Offline-first hackathon launcher & funding portal.  
-  → [MVP](https://vibratonic.replit.app) • [Repo](https://github.com/indrad3v4/Vibratonic)  
-- 🎨 **Missiora.agency** — Mixed-reality CV AI agents.  
-- 🏘️ **Daodiseo.app** — RAG + blockchain for real-estate tokenisation.  
-- 🧪 **SCIX** — a scientific RAG agent.
+---
 
-## Say hi
-📫 1ndradev4@proton.me • 📍 Kraków → global
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=indrad3v4&show_icons=true&theme=radical&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrad3v4&layout=compact&theme=radical)
+
+---
+
+## 📬 Connect
+
+[indra-ai.dev](https://indra-ai.dev) · [LinkedIn](https://linkedin.com/in/indradev4) · [Telegram](https://t.me/indradev_) · [1ndradev4@proton.me](mailto:1ndradev4@proton.me)
+
+> *Built with Python + Reflex + too much coffee. ИКРА graduate.*
