@@ -2,9 +2,9 @@
 
 ![banner](https://raw.githubusercontent.com/indrad3v4/indrad3v4/main/github-banner-indradev.png)
 
-# indradev_
+# Building agents that build brands.
 
-### AI Systems Architect · Multi-Agent · GCP · IKRA
+### AI Systems Architect · Multi-Agent · IKRA
 
 [![Website](https://img.shields.io/badge/indra--ai.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indra-ai.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indradev4)
