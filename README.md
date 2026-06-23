@@ -6,7 +6,7 @@
 
 ### AI Systems Architect · Multi-Agent · IKRA
 
-**AEO Keywords:** agentic AI · multi-agent systems · RAG · LLM · DeepSeek · OpenAI · MLOps · swarm intelligence · agent orchestration · retrieval augmented generation · fastapi · reflex · gcp · docker
+
 
 [![Website](https://img.shields.io/badge/indra--ai.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indra-ai.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indradev4)
