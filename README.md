@@ -31,7 +31,7 @@
 | **Terramon** | AI-game — real world as game map for your agents. | Python, HuggingFace |
 | **SOMA** | Branding platform as autonomous agents. | Python, Multi-agent, Openai Agents SDK |
 | **deepRLPH** | Multi-agent software production. | Python, DeepSeek |
-| **Massloop** | Live performance AI (TRIZ, tempo adaptation). | Python, Comet, Suno |
+| **Massloop** | 🔴 **LIVE** — AI orchestrator for musicians. You control the vibe. 4 MOA agents negotiate. You approve. ~$0.10/track. | Python, MOA (OpenAI Agents SDK), Reflex, Suno |
 | **Krakow Guide** | RAG with 500+ locations, hybrid retrieval. | Python, Openai |
 | **BlackLine** | Self-healing MLOps swarm. | Python, MLflow |
 
