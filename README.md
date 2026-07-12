@@ -47,8 +47,8 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=indrad3v4&show_icons=true&theme=dark&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrad3v4&layout=compact&theme=dark)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrad3v4&theme=dark)
+![languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indrad3v4&theme=dark)
 
 ---
 
