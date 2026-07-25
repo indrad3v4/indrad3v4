@@ -46,7 +46,7 @@ focus: AI agent systems · brand visibility · autonomous pipelines
 | **◈ Terramon** | Real world as game map. AI creatures born from thoughts. | `Python` `HuggingFace` |
 | **◎ Massloop** 🔴 | AI music orchestrator. You conduct, agents play. ~$0.10/track. | `MOA` `Reflex` `Suno` |
 | **⊞ SOMA** | Autonomous branding platform. Multi-agent brand architecture. | `OpenAI SDK` `Python` |
-| **⎔ Certrux** | GTM engine for 7 EU brands. Production multi-agent. | `Vertex` `GCP` `ADK` |
+| **⎔ NDA-project** | GTM engine for 7 EU brands. Production multi-agent. | `Vertex` `GCP` `ADK` |
 | **◈ Krakow Guide** | RAG with 500+ geo-anchored locations. Hybrid retrieval. | `Python` `OpenAI` |
 | **⛁ BlackLine** | Self-healing MLOps swarm. AI safety net. | `MLflow` `Python` |
 | **⎊ deepRLPH** | Autonomous software dev. Multi-agent production. | `DeepSeek` `Python` |
