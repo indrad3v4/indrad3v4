@@ -1,78 +1,105 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/indrad3v4/indrad3v4/main/github-banner-indradev.png" alt="indradev_" width="100%"/>
+</p>
 
-![banner](https://raw.githubusercontent.com/indrad3v4/indrad3v4/main/github-banner-indradev.png)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=AI+Systems+Architect;Multi-Agent+%7C+IKRA+%7C+Reflex;Building+agents+that+build+brands" alt="Typing SVG"/>
+  </a>
+</p>
 
-# Building agents that build brands.
+<p align="center">
+  <a href="https://indra-ai.dev"><img src="https://img.shields.io/badge/⛓️_PORTFOLIO-000?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/indradev4"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/indradev4"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://buymeacoffee.com/indradev_"><img src="https://img.shields.io/badge/☕_SUPPORT-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+</p>
 
-### AI Systems Architect · Multi-Agent · IKRA
+<br>
 
-[![Website](https://img.shields.io/badge/indra--ai.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indra-ai.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indradev4)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/indradev4)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/indradev_)
-[![AMD ACT II](https://img.shields.io/badge/🏆_AMD_ACT_II-FF5733?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/indrad3v4/Kernel-Olympics)
+```yaml
+login: indradev_
+location: Kraków, EU
+status: lifelong_international_protection_after_2020
+philosophy: "Bureaucracy blocked my income. Not my skills. Not my will."
+core: [Python, Reflex, Multi-Agent, RAG, GCP, Docker, IKRA, ROCm/HIP]
+focus: AI agent systems · brand visibility · autonomous pipelines
+```
 
----
+<br>
 
-</div>
+<!-- GITHUB TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=indrad3v4&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=indrad3v4&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-## Free AI Visibility Check
-
-> AI reads your profile before humans do. See how AI sees your code and brand.
-
-**[Check your AI Visibility →](https://indra-ai.dev)** — paste URL → get free score (0-100) + report powered by AMBICA.
-
----
-
-## Systems I've Built
-
-| System | What | Stack |
-|--------|------|-------|
-| **Kernel Olympics** | **🏆 AMD ACT II — Autonomous CUDA→ROCm pipeline. 4-LLM multi-agent loop compiles on real AMD MI300X. 665 tests. Live demo.** | **Python, DeepSeek/Gemma/GLM/Kimi, ROCm 7.2, hipcc** |
-| **Certrux** | GTM engine for 7 EU brands. Multi-agent orchestrator. | Python, Vertex, GCP, ADK |
-| **AMBICA** | AI visibility audits. Self-serve. | Reflex, LLMs, Stripe |
-| **Terramon** | AI-game — real world as game map for your agents. | Python, HuggingFace |
-| **SOMA** | Branding platform as autonomous agents. | Python, Multi-agent, OpenAI Agents SDK |
-| **deepRLPH** | Multi-agent software production. | Python, DeepSeek |
-| **Massloop** | 🔴 **LIVE** — AI orchestrator for musicians. ~$0.10/track. | Python, MOA (OpenAI Agents SDK), Reflex, Suno |
-| **Krakow Guide** | RAG with 500+ locations, hybrid retrieval. | Python, OpenAI |
-| **BlackLine** | Self-healing MLOps swarm. | Python, MLflow |
+<br>
 
 ---
 
-## 📊 GitHub Stats
+## 🧬 Systems
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrad3v4&theme=dark)
+| System | Description | Stack | 
+|:-------|:------------|:------|
+| **⎈ Kernel Olympics** 🏆 | CUDA→ROCm pipeline. 4-LLM multi-agent. 665 tests live on AMD MI300X. | `Python` `DeepSeek` `ROCm 7.2` `hipcc` |
+| **🌀 AMBICA** | AI visibility audit. Self-serve LAI scoring for brands. | `Reflex` `LLMs` `Stripe` |
+| **◈ Terramon** | Real world as game map. AI creatures born from thoughts. | `Python` `HuggingFace` |
+| **◎ Massloop** 🔴 | AI music orchestrator. You conduct, agents play. ~$0.10/track. | `MOA` `Reflex` `Suno` |
+| **⊞ SOMA** | Autonomous branding platform. Multi-agent brand architecture. | `OpenAI SDK` `Python` |
+| **⎔ Certrux** | GTM engine for 7 EU brands. Production multi-agent. | `Vertex` `GCP` `ADK` |
+| **◈ Krakow Guide** | RAG with 500+ geo-anchored locations. Hybrid retrieval. | `Python` `OpenAI` |
+| **⛁ BlackLine** | Self-healing MLOps swarm. AI safety net. | `MLflow` `Python` |
+| **⎊ deepRLPH** | Autonomous software dev. Multi-agent production. | `DeepSeek` `Python` |
 
-| ![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indrad3v4&theme=dark) | ![stats](https://github-readme-stats.vercel.app/api?username=indrad3v4&show_icons=true&theme=dark&hide_border=true) |
-|---|---|
-| ![most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=indrad3v4&theme=dark) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indrad3v4&theme=dark&hide_border=true) |
-
----
-
-## 🧰 Core Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-000?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ROCm](https://img.shields.io/badge/ROCm-000?style=flat-square&logo=amd&logoColor=white)
+<br>
 
 ---
 
-## ☕ Support
+## 📊 Pulse
 
-> *Lifelong international protection in Poland after 2020. Bureaucracy blocked my income — not my skills. Every coffee keeps the roof on and the code running.*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrad3v4&theme=radical" width="100%"/>
+</p>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/indradev_)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indrad3v4&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&icon_color=f97316&title_color=f97316&text_color=ffffff" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrad3v4&theme=radical&hide_border=true&background=00000000&ring=f97316&fire=f97316&currStreakLabel=f97316" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indrad3v4&theme=radical" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=indrad3v4&theme=radical" width="49%"/>
+</p>
+
+<br>
 
 ---
 
-[indra-ai.dev](https://indra-ai.dev) · [LinkedIn](https://linkedin.com/in/indradev4) · [Telegram](https://t.me/indradev4) · [☕ buymeacoffee.com/indradev_](https://buymeacoffee.com/indradev_)
+## ☕ Why support?
 
-> *ikra graduate · python · reflex · too much coffee*
+> After the 2020 events in Belarus, I received lifelong international political protection in Poland. The right to stay. The right to build.
+>
+> The card must be renewed every 2 years. Processing normally takes one month. I've been waiting three. My programming contract wasn't extended. Uber wants the new card. Bureaucracy blocked my income — not my skills, not my will.
+>
+> **Every coffee keeps the roof on and the code running. You're not just supporting me — you're proving that creation beats paperwork.**
+
+<p align="center">
+  <a href="https://buymeacoffee.com/indradev_">
+    <img src="https://img.shields.io/badge/☕_Support_the_work_→-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <a href="https://indra-ai.dev">⛓️ portfolio</a> ·
+  <a href="https://linkedin.com/in/indradev4">💼 linkedin</a> ·
+  <a href="https://t.me/indradev4">💬 telegram</a> ·
+  <a href="https://buymeacoffee.com/indradev_">☕ coffee</a>
+</p>
+
+<p align="center">
+  <sub><code>ikra graduate · python · reflex · too much coffee</code></sub>
+</p>
